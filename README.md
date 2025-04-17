@@ -27,6 +27,8 @@ This project is a Spring Boot application that manages course information for th
 
 ## *Group Members
 - Owethu Dyasophi (223024407)
-- [Add your teammates' names here]
+- Reginald Maanda Mulaudzi(202249801)
+- Siyavuya Xhaliswa(202250187)
+- Aphiwe Myoywana(202221457)
 
 This Spring Boot application exposes RESTful endpoints for managing university courses. It supports full CRUD operations using curl and includes static HTML pages for displaying Foundation, Undergraduate, and Honours course information. The project is hosted on GitHub and structured for easy testing and future extension.
