@@ -1,0 +1,43 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+out/
+
+### System Files ###
+.DS_Store
+Thumbs.db
+
+### Build ###
+/target/
+
+### Logs ###
+*.log
+
+### Dependency Caches ###
+/.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+### HTTP Client Requests ###
+/httpRequests/
+
+### Local Config Files ###
+*.local.xml
+/dataSources/
+/dataSources.local.xml
+/shelf/
+/workspace.xml
+
+### OS-specific ###
+# Windows
+*.exe
+*.dll
+*.class
+*.jar
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
